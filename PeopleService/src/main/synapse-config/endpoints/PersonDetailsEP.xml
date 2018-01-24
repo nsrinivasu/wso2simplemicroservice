@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<endpoint name="PersonDetailsEP" xmlns="http://ws.apache.org/ns/synapse">
+    <http method="get" trace="enable" uri-template="http://localhost:9090/people/getPeople/{uri.var.email}"/>
+</endpoint>
