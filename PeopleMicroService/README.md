@@ -5,4 +5,4 @@ It offers following resources
 2)GET - getPeople
 3)Post - addPerson
 4)PUT - updatePerson
-5)DELETE - remove person
+5)DELETE - remove person 
